@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://einievein.bridgetowngamestudios.com/sitemap.xml
